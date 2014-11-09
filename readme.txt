@@ -50,7 +50,8 @@ A favicon (short for "favorites icon") is an icon associated with a website or w
 For IE, Microsoft recommends 16x16, 32x32 and 48x48 favicon.ico file, for iOS, Apple recommends resolutions at most 180x180 while some other platforms look for PNG files with various resolutions, like the 96x96 pixels.
 
 == Screenshots ==
-1. PhpSword Favicon Manager Screenshot1
+1. PhpSword Favicon Manager Screenshot 1
+2. PhpSword Favicon Manager Screenshot 2
 
 == Changelog ==
 = 1.0 =
