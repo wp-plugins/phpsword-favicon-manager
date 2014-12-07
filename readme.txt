@@ -1,18 +1,17 @@
 === PhpSword Favicon Manager ===
 Contributors: phpsword
-Donate link: http://69plugins.com/donate/
-Tags: PhpSword, Favicon, WordPress, Favicon Plugin, Favicon Change, Favicon Code, Favicon Manager
+Donate link: https://69plugins.com/donate/
+Tags: PhpSword, Favicon, WordPress, Plugin, Favicon Icon, Favicon Image, Favicon Code, Favicon Change, Favicon Manager
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Change Favicon image of your WordPress website.
+Change Favicon image of your WordPress website. By using this WordPress plugin you can easily upload and use your own Favicon icon for the website built in WordPress.
 
 == Description ==
-[PhpSword Favicon Manager WordPress plugin](http://69plugins.com/free-plugins/phpsword-favicon-manager/ "PhpSword Favicon Manager WordPress plugin Link at 69plugins.com") lets you add a favicon to your WordPress website. Favicon is a small image or logo displayed in the address bar of a web browser. By using this plugin codes, you can easily upload and change favicon icon on your website built in WordPress.
-
+[PhpSword Favicon Manager WordPress plugin](https://69plugins.com/free-plugins/phpsword-favicon-manager/ "PhpSword Favicon Manager WordPress plugin Link at 69plugins.com") lets you add a favicon image to your WordPress website. Favicon is a small image or logo displayed in the address bar of a web browser. By using this plugin, you can easily upload and change favicon icon on your website built in WordPress.
 
 = PhpSword Favicon Manager WordPress Plugin Features =
 * Very simple and easy to use.
@@ -22,9 +21,16 @@ Change Favicon image of your WordPress website.
 * Store two favicon logos and choose any one of them to display on the website.
 * Compatible with almost every version of WordPress.
 
+= How Does It Work? =
+The PHP codes of this plugin lets you upload your own favourite icon to the server. Once the pages of your website are accessed by the users, WordPress loads an action hook named "wp_header" on every page request. On every "wp_header" action hook the plugin appends required favicon image code to all the web pages. The procedure is the same for all post types such as the home page, category page, post pages or custom pages. This enables web browsers to load and display favicon icon for your WordPress website.
+
+= Translations =
+Currently the plugin is available in only the English language. We will add more languages soon.
+
 = More Information and Support =
-* More [WordPress plugins by Pradnyankur Nikam](https://profiles.wordpress.org/phpsword/ "List of WordPress plugins by author Pradnyankur Nikam")
-* [Plugin support and help](http://69plugins.com/contact/ "WordPress Plugin support and help at 69plugins.com") at 69plugins.com
+* Homepage of [PhpSword Favicon Manager Plugin](https://69plugins.com/free-plugins/phpsword-favicon-manager/ "WordPress plugin to display favicon image 69plugins.com") for WordPress at 69plugins.com
+* More [WordPress plugins by Pradnyankur Nikam](https://69plugins.com/ "List of WordPress plugins developed by Pradnyankur Nikam") at 69plugins.com
+* [Plugin support and help](https://wordpress.org/support/plugin/phpsword-favicon-manager "WordPress Plugin support and help")
 
 == Installation ==
 = Search and Install from WordPress admin panel =
