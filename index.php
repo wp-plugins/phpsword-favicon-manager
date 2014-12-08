@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: PhpSword Favicon Manager
-Plugin URI: http://69plugins.com/free-plugins/phpsword-favicon-manager/
+Plugin URI: https://69plugins.com/free-plugins/phpsword-favicon-manager/
 Description: PhpSword Favicon Manager is a WordPress plugin to add a favicon to your WordPress website. Favicon is a small image or logo displayed in the address bar of a web browser. By using this plugin, you can easily upload and display favicon icon on your website built in WordPress.
 Author: Pradnyankur Nikam
 Author URI: http://www.pradnyankur.com
